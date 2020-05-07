@@ -1,13 +1,15 @@
+
+---
 title: "Reproducible and Collaborative Practices"
-subtitle: "Tutorial 7"
-author: "Your Name"
-institute: "Department of Econometrics and Business Statistics"
-output:
-pdf_document:
-toc: true
-toc_depth: 2
-number_sections: true
-highlight: tango
+   subtitle: "Tutorial 7"
+   author: "Your Name"
+   institute: "Department of Econometrics and Business Statistics"
+   output:
+     pdf_document:
+     toc: true
+     toc_depth: 2 
+     number_sections: true 
+     highlight: tango
 header-includes:
 - \usepackage{titling}
 - \pretitle{\begin{center}
@@ -19,7 +21,10 @@ header-includes:
 - \usepackage{sectsty}
 - \sectionfont{\color{olive}}
 - \usepackage{verbatim}
+---
+
+# Introduction
+=======
 \begin{itemize} 
 \item ... 
 \end{itemize}
-
