@@ -1,3 +1,4 @@
+
 ---
 title: "Reproducible and Collaborative Practices"
    subtitle: "Tutorial 7"
@@ -23,3 +24,7 @@ header-includes:
 ---
 
 # Introduction
+=======
+\begin{itemize} 
+\item ... 
+\end{itemize}
